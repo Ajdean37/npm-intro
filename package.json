@@ -1,0 +1,25 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajdean37/npm-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajdean37/npm-intro/issues"
+  },
+  "homepage": "https://github.com/Ajdean37/npm-intro#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dayjs": "^1.11.0",
+    "uuid": "^8.3.2"
+  }
+}
